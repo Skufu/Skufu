@@ -1,127 +1,104 @@
-# 👋 Hi, I'm Adrian Francisco
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
-</div>
-
-<h3 align="center">🚀 An aspiring Frontend Developer from Philippines, currently focusing on React stack</h3>
-
----
-
-## 🎯 About Me
-
-- 🔭 **Currently:** Computer Science student at Mapua Malayan Colleges Laguna
-- 💻 **Focus:** Frontend Development with React ecosystem
-- 🌱 **Currently Learning:** React, JavaScript/TypeScript, CSS, and modern frontend tools
-- 🎓 **Recent Journey:** Completed comprehensive full-stack curriculum via Boot.dev
-- ⚡ **Fun Fact:** People tend to be more creative in the shower due to increased dopamine flow from warm water
-
----
-
-## 📚 What I Learned in the Past 6 Months (Boot.dev)
-
 <div align="center">
 
-### Backend & Core Programming
-🐍 **Python** - Object Oriented Programming, Functional Programming  
-🗄️ **SQL** - Database design and queries  
-🐹 **Go** - HTTP Servers and Clients  
-
-### DevOps & Tools
-🐧 **Linux** - System administration and command line  
-📦 **Git** - Version control and collaboration  
-🐳 **Docker** - Containerization and deployment  
-🔄 **CI/CD** - Automated deployment pipelines  
-☁️ **AWS S3** - File storage and server management  
-
-### Frontend Foundations
-🌐 **JavaScript** - Modern ES6+ features and DOM manipulation  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=80&lines=👋+Hi%2C+I'm+Adrian+Francisco;🚀+Fullstack+Developer)
 
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skufu&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
+</p>
 
-## 🎯 Currently Learning & Focusing On
+<h2 align="center">🚀 Aspiring Fullstack Developer from the Philippines</h2>
 
-<div align="center">
+<p align="center">
+🎓 Computer Science student at Mapua Malayan Colleges Laguna <br/>
+🌐 Focus: JavaScript, React <br/>
+🖥️ Recently Completed: Boot.dev Backend course <br/>
+⚡ Fun Fact: Creativity spikes in the shower (thanks, dopamine!) <br/>
+</p>
 
-| Frontend Stack | Tools & Technologies |
-|:---:|:---:|
-| ⚛️ **React** | 🎨 **CSS3 & Styling** |
-| 📝 **TypeScript** | 🛠️ **VS Code** |
-| 🌐 **JavaScript ES6+** | 📱 **Responsive Design** |
-| 🎯 **Frontend Architecture** | 🚀 **Modern Build Tools** |
+## 🛠️ Tech Stack & Tools
 
-</div>
+<h3 align="center">Editors & AI</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</p>
 
----
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+</p>
 
-## ⚒️ Tech Stack
+<h3 align="center">Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+</p>
 
-<div align="center">
+<h3 align="center">Languages & Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+</p>
 
-### Frontend Focus
-<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind" />
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  <img src="https://img.shields.io/badge/NeonDB-00E5FF?style=for-the-badge&logo=neon&logoColor=white" height="40"/>
+</p>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,go,sql" />
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+</p>
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
+<!-- Animated GitHub Stats -->
+<p align="center">
+  <!-- Grid-Style Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skufu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&color=38bdf8&line=38bdf8&point=f0f9ff&bg_color=0f172a" alt="Modern GitHub Activity Graph"/>
+</p>
 
-### Additional Experience
-<img src="https://skillicons.dev/icons?i=cs,dotnet,figma" />
+<p align="center">
+  <!-- Profile Summary with Grid Layout -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skufu&theme=tokyonight" alt="Profile Summary"/>
+</p>
 
-</div>
+<p align="center">
+  <!-- Productive Time and Language Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skufu&theme=tokyonight&utc_offset=8" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skufu&theme=tokyonight" alt="Most Used Languages"/>
+</p>
 
----
+<p align="center">
+  <!-- Modern Streak Stats with Custom Colors -->
+  <img src="https://streak-stats.demolab.com/?user=Skufu&theme=tokyonight&background=0f172a&border=1e293b&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8&sideLabels=64748b&dates=64748b" alt="GitHub Streak Stats"/>
+</p>
 
-## 📊 GitHub Stats
+<!-- Social Links  -->
+<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="mailto:bafaa512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adrian-francisco-4b21328d/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Skufu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Skufu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Skufu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Skufu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <h3>🐍 Watch my contributions get eaten! 🐍</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Skufu/Skufu/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="mailto:agpfrancisco1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-francisco-91b3aa309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>💖 Support My Journey</h3>
-  <a href='https://ko-fi.com/Skufu' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skufu&style=flat-square&color=blue" alt="Profile views" />
-</div>
+<!-- Support -->
+<h2 align="center">💖</h2>
+<p align="center">
+  <a href="https://ko-fi.com/Skufu"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="190" alt="Buy Me a Coffee at ko-fi.com"/></a>
+</p>
