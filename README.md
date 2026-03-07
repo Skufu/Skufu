@@ -8,11 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=Skufu&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
 </p>
 
-<h2 align="center">🚀 Aspiring Fullstack Developer from the Philippines</h2>
+<h2 align="center">🚀 Fullstack Developer from the Philippines</h2>
 
 <p align="center">
 🎓 Computer Science student at Mapua Malayan Colleges Laguna <br/>
-🌐 Focus: JavaScript, React <br/>
 🖥️ Recently Completed: Boot.dev Backend course <br/>
 ⚡ Fun Fact: Creativity spikes in the shower (thanks, dopamine!) <br/>
 </p>
