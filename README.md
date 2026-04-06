@@ -94,6 +94,7 @@
   <a href="mailto:bafaa512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adrian-francisco-4b21328d/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Skufu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://adrianfrancisco.space/"><img src="https://img.shields.io/badge/Blog-adrianfrancisco.space-38bdf8?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
 <!-- Support -->
