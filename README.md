@@ -8,7 +8,7 @@
 
 ## About
 
-Backend engineer focused on systems that carry themselves. 9+ production Go projects. Boot.dev certified. CI/CD, testing, Docker. Fullstack capable: React, TypeScript, PostgreSQL. Build with agentic AI tools to remove friction and ship faster.
+Backend engineer focused on systems that carry themselves. Boot.dev certified. CI/CD, testing, Docker. Fullstack capable: React, TypeScript, PostgreSQL. Build with agentic AI tools to remove friction and ship faster.
 
 ## Tech Stack
 
