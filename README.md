@@ -12,7 +12,7 @@ Backend engineer focused on systems that carry themselves. CI/CD, testing, Docke
 
 Recent:
 
-- **[LockIn](https://github.com/Skufu/LockIn-Bot).** Discord study bot. Voice-channel sessions, Manila-day streaks. 665+ hours across 38 people. Go, PostgreSQL.
+- **[LockIn](https://github.com/Skufu/LockIn-Bot).** Discord study bot. Voice-channel sessions, Manila-day streaks. Go, PostgreSQL.
 - **[DIANA](https://github.com/Skufu/DianaV2).** Diabetes risk screening. NHANES ETL, Go API, Python model service, React. [Live](https://diana-v2.vercel.app).
 - **[Journal](https://adrianfrancisco.space/).** Writes when something sticks.
 
