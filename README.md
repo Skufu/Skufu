@@ -2,18 +2,24 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Adrian+Francisco;Backend+Engineer)
 
-  **4th Year CS · Backend-Focused · Go · Open to Internships**
+  **4th Year CS · Backend-focused · Go · Open to internships**
 
 </div>
 
 ## About
 
-Backend engineer focused on systems that carry themselves. Boot.dev certified. CI/CD, testing, Docker. Fullstack capable: React, TypeScript, PostgreSQL. Build with agentic AI tools to remove friction and ship faster.
+Backend engineer focused on systems that carry themselves. CI/CD, testing, Docker. Fullstack when the job needs it: React, TypeScript, PostgreSQL.
+
+Recent:
+
+- **[LockIn](https://github.com/Skufu/LockIn-Bot).** Discord study bot. Voice-channel sessions, Manila-day streaks. 665+ hours across 38 people. Go, PostgreSQL.
+- **[DIANA](https://github.com/Skufu/DianaV2).** Diabetes risk screening. NHANES ETL, Go API, Python model service, React. [Live](https://diana-v2.vercel.app).
+- **[Journal](https://adrianfrancisco.space/).** Writes when something sticks.
 
 ## Tech Stack
 
 **Languages**  
-Go · TypeScript · Python · Swift · JavaScript
+Go · TypeScript · Python · SQL · Swift · JavaScript
 
 **Backend & Databases**  
 PostgreSQL · NeonDB · MySQL · SQLite · Docker · CI/CD
@@ -38,6 +44,6 @@ VS Code · Cursor · GitHub Actions · Linux · Agentic AI (OpenCode, Claude Cod
 
 ## Connect
 
-Email: adrian0123francisco1@gmail.com  
-LinkedIn: https://www.linkedin.com/in/adrian-gabriell-francisco/  
-Blog: https://adrianfrancisco.space/
+Email: [adrian0123francisco1@gmail.com](mailto:adrian0123francisco1@gmail.com)  
+LinkedIn: [adrian-gabriell-francisco](https://www.linkedin.com/in/adrian-gabriell-francisco/)  
+Journal: [adrianfrancisco.space](https://adrianfrancisco.space/)
